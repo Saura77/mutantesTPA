@@ -14,7 +14,6 @@
     <name>Mutants</name>
     <description>Mutants</description>
     <properties>
-        <java.version>11</java.version>
     </properties>
     <dependencies>
         <dependency>
